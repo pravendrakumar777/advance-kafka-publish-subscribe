@@ -1,2 +1,2 @@
 # advance-kafka-publish-subscribe
-This Application is publishing and subscribing messages via Apache kafka, completely developed via Spring boot REST API.
+The application is designed to publish and subscribe messages using Apache Kafka, enabling seamless asynchronous communication between services.
